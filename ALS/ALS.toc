@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ALS
+## Author: JJ
+## Version: 0.3
+## Notes: automatic language switching
+## DefaultState: Enabled
+ALS.lua
